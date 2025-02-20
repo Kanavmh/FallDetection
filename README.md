@@ -1,12 +1,12 @@
 # FallDetection
 A Fall Detection System built using OpenCV and MediaPipe in Python. The system monitors real-time video feeds, detects falls by analyzing human movements, and triggers an alert mechanism to notify caregivers or emergency responders.
 
-🔧 Technologies Used
+🔧 Technologies Used <br>
 Python – Core programming language
 OpenCV – Video processing & camera handling
 MediaPipe – Human pose estimation
 NumPy/Pandas – Data analysis (if needed)
-
+<br>
 📌 Features
 ✅ Real-Time Monitoring – Captures and processes video streams
 ✅ Pose Estimation – Tracks body landmarks (shoulders, elbows, hips, etc.)
