@@ -28,7 +28,7 @@ cd Fall-Detection-OpenCV-MediaPipe
 ```
 ### 2️⃣ Install Dependencies  
 ```bash
-pip install -r requirements.txt
+pip install opencv-python numpy mediapipe
 ```
 ### 3️⃣ Run the Application  
 ```bash
